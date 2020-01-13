@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+header .logo {
+    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    color: red;
+    text-align: center;
+    background-color: #E1E1E1;
+    height: 50px;
+}
+
+header .about_marvel {
+    text-decoration: underline;
+    font-size: 2rem;
+    padding-left: 800px;
+    margin-top: 100px;
+}
+
+header .banner {
+    padding: 120px;
+}
+
+header .border {
+    padding: 3px;
+    border: 2px solid #E1E1E1;
+}
+
+
