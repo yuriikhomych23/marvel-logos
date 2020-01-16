@@ -1,5 +1,111 @@
-@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton|Cantarell&display=swap');
 
+body {
+    /* max-width: 1920px; */
+    /* margin: auto; */
+}
+
+header nav .logo {
+    font-family: 'Anton', sans-serif;
+    background-color: #DFDFDF;
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+    height: 50px;
+}
+
+.about_marvel {
+    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    color: black;
+    padding: 0px 0px 0px 800px;
+    width: 250px;
+}
+
+.line {
+    border-bottom: 5px solid red;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+}
+
+
+
+.img {
+    border: 1.5px solid #DFDFDF;
+    padding: 7px;
+    
+}
+
+.text {
+    font-family: 'Cantarell', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    text-indent: 40px;
+    text-align: justify;
+    font-weight: 600; 
+}
+
+.marvel_logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: -65px;
+    padding:0 0 0 71.5px;
+    width: 655px;
+}
+
+.img1 {
+    border: 1px solid #DFDFDF;
+    padding: 7px;
+}
+
+.img2 {
+    border: 1px solid #DFDFDF;
+    padding: 7px;
+}
+
+.img3 {
+    border: 1px solid #DFDFDF;
+    padding: 7px;
+}
+
+.img4 {
+    border: 1px solid #DFDFDF;
+    padding: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 header .logo {
     font-family: 'Anton', sans-serif;
     font-size: 2rem;
@@ -9,15 +115,17 @@ header .logo {
     height: 50px;
 }
 
-header .about_marvel {
+header .marvel {
     text-decoration: underline;
     font-size: 2rem;
-    padding-left: 800px;
-    margin-top: 100px;
+    float: right;
+    padding-right: 330px;
+    padding-top: 120px;
 }
 
 header .banner {
-    padding: 120px;
+    display: flex;
+    justify-content: space-between;
 }
 
 header .border {
@@ -25,4 +133,4 @@ header .border {
     border: 2px solid #E1E1E1;
 }
 
-
+ */
