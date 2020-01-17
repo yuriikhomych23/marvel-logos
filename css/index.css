@@ -18,16 +18,16 @@ header nav .logo {
     font-family: 'Anton', sans-serif;
     font-size: 2rem;
     color: black;
-    padding: 0px 0px 0px 800px;
+    padding: 0px 0px 0px 1000px;
     width: 250px;
 }
 
 .line {
-    border-bottom: 5px solid red;
+    border-bottom: 3px solid red;
 }
 
 .banner {
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     padding: 70px;
 }
