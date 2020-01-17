@@ -101,36 +101,3 @@ header nav .logo {
 
 
 
-
-
-
-
-/* 
-header .logo {
-    font-family: 'Anton', sans-serif;
-    font-size: 2rem;
-    color: red;
-    text-align: center;
-    background-color: #E1E1E1;
-    height: 50px;
-}
-
-header .marvel {
-    text-decoration: underline;
-    font-size: 2rem;
-    float: right;
-    padding-right: 330px;
-    padding-top: 120px;
-}
-
-header .banner {
-    display: flex;
-    justify-content: space-between;
-}
-
-header .border {
-    padding: 3px;
-    border: 2px solid #E1E1E1;
-}
-
- */
